@@ -5,6 +5,5 @@ public class Main {
         Calculadora calculadora = new Calculadora();
         Integer resultado = calculadora.sumar(3, 2);
         System.out.println("Resultado de sumar 3 y 2:" + resultado);
-        System.out.println("Hello world!");
     }
 }
