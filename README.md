@@ -10,3 +10,12 @@ Proyecto en Java para Ingeniería de Software del Instituto Nº 152
 3. Crear historias de usuario
 4. Priorizar y gestionar el backlog del producto
 5. Supervisar las etapas de desarrollo del producto
+
+-- Tech Lead
+
+5 responsabilidades clave del Tech Lead
+1. Liderazgo técnico
+2. Diseño y arquitectura
+3. Resolución de problemas
+4. Coordinación y comunicación
+5. Mentoreo y desarrollo del equipo
