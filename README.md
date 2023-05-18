@@ -11,9 +11,9 @@ Proyecto en Java para Ingeniería de Software del Instituto Nº 152
 4. Priorizar y gestionar el backlog del producto
 5. Supervisar las etapas de desarrollo del producto
 
--- Teach Lead
+-- Tech Lead
 
-5 responsabilidades clave del Teach Lead
+5 responsabilidades clave del Tech Lead
 1. Liderazgo técnico
 2. Diseño y arquitectura
 3. Resolución de problemas
