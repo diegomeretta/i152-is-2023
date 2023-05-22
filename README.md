@@ -18,4 +18,13 @@ Proyecto en Java para Ingeniería de Software del Instituto Nº 152
 2. Diseño y arquitectura
 3. Resolución de problemas
 4. Coordinación y comunicación
-5. Mentoreo y desarrollo del equipo
+5. Mentoreo y desarrollo del equipo 
+
+-- Project Manager
+Un Project manager debe:
+
+1. Definir actividades
+2. Actividad de secuencia
+3. Estimar la duración de la actividad.
+4. Desarrollar un horario
+5. Mantener un horario
