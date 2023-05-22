@@ -20,9 +20,39 @@ Proyecto en Java para Ingeniería de Software del Instituto Nº 152
 4. Coordinación y comunicación
 5. Mentoreo y desarrollo del equipo
 
+-- Diseñador/a UX/UI
+
 5 responsabilidades de Diseñadora UX/UI
 1.Diseño de la interfaz de usuario
 2.Desarrollo front-end
 3.Investigación y pruebas de usuarios
 4.Colaboración con equipos multidisciplinarios
 5.Mantenimiento y mejora continua
+
+-- Desarrollador
+
+5 responsabilidades clave del desarrollador
+1. Diseño y desarrollo de software
+2. Resolución de problemas y depuración
+3. Colaboración en equipos
+4. Mantenimiento y mejora del software existente
+5. Actualización de conocimientos y seguimiento de las mejores prácticas
+
+-- Tester 
+
+5 responsabilidades clave del Tester 
+1. Detectar potenciales fallos.
+2. Escribir informes de fallos.
+3. Proporcionar garantía de calidad.
+4. Supervisar aplicaciones y sistemas de software.
+5. Reunirse con usuarios del sistema para comprender el alcance de los proyectos.
+
+-- Project Manager
+Un Project manager debe:
+
+1. Definir actividades
+2. Actividad de secuencia
+3. Estimar la duración de la actividad.
+4. Desarrollar un horario
+5. Mantener un horario
+
