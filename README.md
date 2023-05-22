@@ -13,7 +13,7 @@ Proyecto en Java para Ingeniería de Software del Instituto Nº 152
 
 -- Tech Lead
 
-5 responsabilidades clave del Tech Lead
+5 responsabilidades claves del Tech Lead
 1. Liderazgo técnico
 2. Diseño y arquitectura
 3. Resolución de problemas
