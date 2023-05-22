@@ -19,3 +19,10 @@ Proyecto en Java para Ingeniería de Software del Instituto Nº 152
 3. Resolución de problemas
 4. Coordinación y comunicación
 5. Mentoreo y desarrollo del equipo
+
+5 responsabilidades de Diseñadora UX/UI
+1.Diseño de la interfaz de usuario
+2.Desarrollo front-end
+3.Investigación y pruebas de usuarios
+4.Colaboración con equipos multidisciplinarios
+5.Mantenimiento y mejora continua
