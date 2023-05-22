@@ -28,3 +28,12 @@ Proyecto en Java para Ingeniería de Software del Instituto Nº 152
 3. Proporcionar garantía de calidad.
 4. Supervisar aplicaciones y sistemas de software.
 5. Reunirse con usuarios del sistema para comprender el alcance de los proyectos.
+
+-- Project Manager
+Un Project manager debe:
+
+1. Definir actividades
+2. Actividad de secuencia
+3. Estimar la duración de la actividad.
+4. Desarrollar un horario
+5. Mantener un horario
