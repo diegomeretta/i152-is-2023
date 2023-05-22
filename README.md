@@ -18,7 +18,16 @@ Proyecto en Java para Ingeniería de Software del Instituto Nº 152
 2. Diseño y arquitectura
 3. Resolución de problemas
 4. Coordinación y comunicación
-5. Mentoreo y desarrollo del equipo 
+5. Mentoreo y desarrollo del equipo
+
+-- Tester 
+
+5 responsabilidades clave del Tester 
+1. Detectar potenciales fallos.
+2. Escribir informes de fallos.
+3. Proporcionar garantía de calidad.
+4. Supervisar aplicaciones y sistemas de software.
+5. Reunirse con usuarios del sistema para comprender el alcance de los proyectos.
 
 -- Project Manager
 Un Project manager debe:
