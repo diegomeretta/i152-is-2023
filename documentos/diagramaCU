@@ -1,0 +1,19 @@
+Para la generación del diagrama se utiliza plantUML: https://plantuml.com/es/
+Para generar el archivo online se utiliza la herrramienta online PlantText : https://www.planttext.com/
+
+@startuml
+left to right direction
+actor "Usuario" as usr
+actor "SO" as so
+rectangle "Sistema de recordatorio de compleaños" {
+  usecase "Registrar fecha de cumpleaños" as UC1
+  usecase "Enviar recordatorio de cumpleaños" as UC2
+  usecase "Eliminar fecha de cumpleaños" as UC3
+  usecase "Modificar fecha de cumpleaños" as UC4
+}
+usr --> UC1
+usr <-- UC2
+usr --> UC3
+usr --> UC4
+UC2 <-- so
+@enduml
