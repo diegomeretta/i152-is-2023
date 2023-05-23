@@ -1,0 +1,13 @@
+Tabla 1. Descripción de ejemplo de una especificación de caso de uso
+
+Nombre de caso de uso	Indica el nombre del caso de uso. Normalmente, el nombre expresa el resultado objetivo y observable del caso de uso, como por ejemplo "Retirar efectivo" en el caso de un cajero automático.
+Breve descripción	Describe el rol y el objetivo del caso de uso.
+Flujo de eventos	Presenta el flujo básico y flujos alternativos. El flujo de eventos describe el comportamiento del sistema; no describe cómo el sistema funciona, los detalles de la presentación ni los detalles de la interfaz de usuario. Si se intercambia información, el caso de uso debe ser específico sobre lo que ha transmitido. Por ejemplo, en lugar de describir una acción como "el actor especifica información de cliente", indica que "el actor especifica el nombre y la dirección del cliente".
+Flujo básico	Describe el comportamiento ideal y principal del sistema.
+Flujos alternativos	Describe excepciones o desviaciones del flujo básico, como el modo en que el sistema se comporta cuando el actor especifica un ID de usuario incorrecto y la autenticación falla.
+Requisitos especiales	Requisitos no funcionales que son específicos de un caso de uso pero que no se especifican en el texto del flujo de sucesos del caso de uso. Ejemplos de requisitos especiales incluyen los factores siguientes: requisitos legales y reguladores; estándares de aplicación; atributos de calidad del sistema, incluidos la usabilidad, la fiabilidad, el rendimiento y la capacidad de soporte; sistemas operativos y entornos; requisitos de compatibilidad y limitaciones de diseño.
+Condiciones previas	Estado del sistema que debe estar presente antes del inicio del caso de uso.
+Condiciones posteriores	Una lista de posibles estados del sistema inmediatamente después de que finalice el caso de uso.
+Puntos de ampliación	Punto del flujo de eventos de caso de uso en el que se hace referencia a otro caso de uso.
+
+referencia: https://www.ibm.com/docs/es/elms/elm/6.0.2?topic=cases-use-case-specification-outline
