@@ -45,3 +45,10 @@
 3. Estimar la duración de la actividad.
 4. Desarrollar un horario
 5. Mantener un horario
+
+### Analista
+1. Recopilación y organización de datos
+2. Análisis cuantitativo y cualitativo
+3. Identificación de problemas y oportunidades
+4. Generación de insights y recomendaciones
+5. Monitoreo y evaluación

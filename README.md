@@ -17,9 +17,3 @@ El diagrama de casos de uso es el que se detalla a continuación:
 
 ![Diagrama](documentos/diagrama.png)
 
-5 Tareas que debe cumplir el Analista
-1.Recopilación y organización de datos
-2.Análisis cuantitativo y cualitativo
-3.Identificación de problemas y oportunidades
-4.Generación de insights y recomendaciones
-5.Monitoreo y evaluación
