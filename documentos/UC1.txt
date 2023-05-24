@@ -1,0 +1,18 @@
+Nombre de caso de uso: Registrar fecha de cumpleaños
+Breve descripción: Registra la fecha de cumpleaños en el sistema.
+Flujo de eventos: N/A
+Flujo básico:
+    1. El usuario selecciona un contacto.
+    2. El sistema muestra el nombre y apellido del contacto.
+    3. El usuario ingresa la fecha de cumpleaños.
+    4. El sistema indica que el contacto ha sido grabado correctamente.
+Flujos alternativos:
+    1a. No existen contactos a mostrar.
+    2a. El contacto no posee nombre y/o apellido.
+    3a. Fecha en formato incorrecto.
+    3b. Fecha futura.
+    4a. El sistema no pudo guardar los datos correctamente.
+Requisitos especiales: N/A
+Condiciones previas: N/A
+Condiciones posteriores: N/A
+Puntos de ampliación: N/A

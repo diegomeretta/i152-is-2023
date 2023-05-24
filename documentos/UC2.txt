@@ -1,0 +1,18 @@
+Nombre de caso de uso: Enviar recordatorio de cumpleaños
+Breve descripción: Envía un recordatorio de cumpleaños al usuario.
+Flujo de eventos: N/A
+Flujo básico:
+    1. El sistema busca (a una hora determinada) un contacto que cumpla años en el día.
+    2. El sistema envía una notificación al usuario informando el nombre y apellido del contacto que cumple años.
+    3. El usuario ingresa a la notificación.
+    4. El sistema marca la notificación como leída.
+Flujos alternativos:
+    1a. No existen contactos a mostrar.
+    1a. Existe más de un contacto.
+    2a. El nombre y/o apellido del contacto no existe.
+    2b. La notificación no puede ser enviada.
+    4a. El sistema no pudo guardar los datos de la notificación.
+Requisitos especiales: N/A
+Condiciones previas: N/A
+Condiciones posteriores: N/A
+Puntos de ampliación: N/A
