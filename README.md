@@ -17,3 +17,6 @@ El diagrama de casos de uso es el que se detalla a continuación:
 
 ![Diagrama](documentos/diagrama.png)
 
+El diagrama de componentes es el que se detalla a continuacion:
+
+![Diagrama](documentos/diagramaComponentes.png)
