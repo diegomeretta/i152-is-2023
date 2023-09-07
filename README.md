@@ -20,3 +20,7 @@ El diagrama de casos de uso es el que se detalla a continuación:
 El diagrama de componentes es el que se detalla a continuacion:
 
 ![Diagrama](documentos/diagramaComponentes.png)
+
+El diagrama de clases es el que se detalla a continuación:
+
+![Diagrama](documentos/diagramadeclases.png)
