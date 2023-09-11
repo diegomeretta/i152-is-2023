@@ -1,0 +1,9 @@
+Ambientes de trabajos propuestos para el desarrollo del proyecto:
+Desarrollo: este es el lugar donde los desarrolladores colaboran para la creación
+del software, en el cual se realizaran todos los cambios. Trabajando con un software de dicha
+magnitud como el del proyecto de recordatorio de cumpleaños, la idea es que las pruebas
+tambien sean llevadas a cabo dentro de este mismo ambiente. Es importante resaltar que 
+los datos y cambios no tienen que ser visibles al cliente.
+Producción: Por último, el ambiente de producción es el espacio donde operará el sistema o aplicación, es decir, es donde se hace uso del servicio por parte de los usuarios finales.
+Aquí se realizan los ajustes a los elementos necesarios para mantener la disponibilidad del servicio y,
+ se programan los respaldos del ambiente. Se remarca la caracteristica de que es visible a los clientes
